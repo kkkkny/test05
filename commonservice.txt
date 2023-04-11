@@ -1,2 +1,6 @@
 집가고싶다
+<<<<<<< HEAD
 a-branch 공통기능
+=======
+b-branch
+>>>>>>> b-branch
